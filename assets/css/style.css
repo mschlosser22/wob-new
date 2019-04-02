@@ -261,4 +261,14 @@ body {
 	.download__list-item {
 	    font-size: 15px;
 	}
+	.rewards__image img {
+	    height: 120px;
+	}
+	.rewards__text {
+	    font-size: 19px;
+	}
+	.questions__text {
+	    font-size: 30px;
+	    margin-bottom: 0.5em;
+	}
 }
